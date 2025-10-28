@@ -1,1 +1,3 @@
 "Hello Joseph!"
+
+My name is Joseph RAYMOND, and I'm trying to improve my front-end dev skills as a Product Designer
